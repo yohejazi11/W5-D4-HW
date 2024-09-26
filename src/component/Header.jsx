@@ -4,7 +4,7 @@ function Header() {
         <div className="header">
             <nav className="main-nav" id="mainNav">
                 <ul className="left-nav-ul">
-                    <li>English</li>
+                    <li>English.</li>
                     <li>تسجيل الدخول</li>
                 </ul>
 
